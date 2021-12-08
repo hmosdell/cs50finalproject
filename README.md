@@ -1,5 +1,3 @@
-# cs50finalproject
-Movie Magic - CS50 Final Project
 # Movie Magic - CS50 Final Project by Haley Mosdell
 This project was designed for the movie lovers out there. When the world shut down in March 2020, I found myself with a lot more free time than I had ever had. I no longer had to commute to the office for 30+ minutes each day, so I decided to start watching movies I had been intending to watch for years with that free time. Oscar movies, classics, you name it! I hadn't yet seen Forrest Gump, if you can believe it! I started to write down a list of movies and began checking them off as I watched them, manually writing down a rating for each. Later, I lost the notebook with this list in the shuffle of a move and at 300+ handwritten titles, I wished I had stored the information elsewhere as it was gone for good!
 
