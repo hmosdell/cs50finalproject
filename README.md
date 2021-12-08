@@ -20,7 +20,7 @@ pip install SQLAlchemy
 pip install Flask-Login
 ```
 ```Python
-pip install better_profanity
+pip install better-profanity
 ```
 And that's all the requirements to run this Flask app! You can start using the app by executing
 
